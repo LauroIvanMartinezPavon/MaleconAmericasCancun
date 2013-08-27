@@ -21,3 +21,8 @@ git commit -m ////////"agregar los archivos para pasar a la version de respaldo
 git remote add origin git@github.com:tuusuario/Prueba.git ///////"asignar tu usuario"
 
 git push origin master   ///////"aceptar los archivos en el directorio de versiones"
+
+
+Pagina web de la aplicacion
+
+http://lauroivanmartinezpavon.github.io/MaleconAmericasCancun
